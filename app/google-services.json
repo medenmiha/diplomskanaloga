@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935531725392",
+    "firebase_url": "https://merjenjetornihlastnosticestisc.firebaseio.com",
+    "project_id": "merjenjetornihlastnosticestisc",
+    "storage_bucket": "merjenjetornihlastnosticestisc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935531725392:android:2d80b99b051f5c249f8755",
+        "android_client_info": {
+          "package_name": "com.example.merjenjetornihlastnosticestisc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935531725392-l042i2g3khjf62e34nm60c7i4rmn5qp4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC724ENiKFJdF8mlRK6BW9AFunGhMdwQFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935531725392-l042i2g3khjf62e34nm60c7i4rmn5qp4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

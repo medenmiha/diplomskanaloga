@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".PodatkiMedVoznjoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:id="@+id/prikazGpsHitrosti"
+        android:layout_width="80dp"
+        android:layout_height="70dp"
+        android:layout_marginTop="10sp"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/prikazTextKoncniPospesek"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:layout_gravity="end"
+        android:layout_marginTop="10sp"
+        android:textSize="18sp"
+        android:textAlignment="center"/>
+
+    <RelativeLayout
+        android:id="@+id/prikaz_vekt_pospeska"
+        android:layout_width="match_parent"
+        android:layout_height="400dp" />
+
+    <!--<com.jjoe64.graphview.GraphView
+        android:id="@+id/graph"
+        android:layout_gravity="bottom"
+        android:layout_width="match_parent"
+        android:layout_height="200dip" />-->
+
+
+</FrameLayout>

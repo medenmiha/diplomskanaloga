@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Merjenje tornih lastnosti cestisc</string>
+
+    <string name="title_activity_zacetni_zaslon">ZacetniZaslon</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_prvi_zagon_aplikacije">PrviZagonAplikacije</string>
+    <string name="pozdravljeni">Pa začnimo</string>
+    <string name="nagovorObPrvemZagonu">Pozdravljeni v aplikaciji za merjenje tornih lastnosti cestišč. Aplikacija deluje tako, da ves čas spremlja vožnjo voznika in njegove manevre. Ko aplikacija preko algoritma zazna, da je voznik močno zaviral, si zapiše odčitke pospeškomera vgrajenega v telefonu in na podlagi slednje informacije izračuna torne lastnosti cestišča. Pri vožnji oziroma meritvah je ključnega pomena, da je TELEFON FIKSNO VPET na stabilno telo in se ga med vožnjo ne prstavlja. Potrebno je omeniti tudi to, da aplikacija deluje pravilno samo ob polnem zavrianju v sili in ne blagem zaviranju, saj bo v tem primeru zaznana površina z lažno nizkim tornim koeficientom. </string>
+    <string name="tipkaPrviZagon">Naprej</string>
+    <string name="tipkaCheckPrviZagon">Ne prikaži več</string>
+    <string name="kalibracija">Kalibracija naprave</string>
+    <string name="navodilaKalibracije1">Vpnite napravo v prijemalo, kot je prikazano na spodnji sliki.
+        Naprava je lahko obrnjena kakor želite. Med kalibracijo mora vozilo mirovati. Zagotoviti je potrebno, da po uspešni kalibraciji naprava ostane ves čas enako obrnjena. Ko je naprava fikno vpeta prtisnite tipko Kalibriraj.</string>
+    <string name="slikakalibracije1">SlikaKalibracije1</string>
+    <string name="button2">Kalibriraj</string>
+    <string name="tipka_zancni_kalibracijo">Začni kalibracijo</string>
+    <string name="zaviral_bom_tipka">Zaviral bom!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="podatki_med_voznjo_info">Podatki med vožnjo</string>
+    <string name="korak_kalibracije2">Naprava je kalibrirana v mirujočem stanju. \n
+        Za dokončanje kalibracije je potrebno testno zaviranje za orientacijo naprave. \n
+        Pospešite vsaj do hitrosti 30 km/h in pritisnte tipko ZAVRIAL BOM! \n
+        Po pritsku začnite naglo zavirati v čimkrajšem možnem času. \n</string>
+    <string name="tipka_vzrvratno_text">Vzvratno</string>
+    <string name="tipka_naravnost_text">Naravnost</string>
+</resources>
